@@ -15,8 +15,8 @@ header{
   width: 100%;
 }
 div.left, div.middle, div.right{
-  border:3px dotted green;
-  width: 33%;
+  border:3px double green;
+  width: 32%;
 }
 aside img {
   width: 100%;
