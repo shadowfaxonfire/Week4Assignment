@@ -15,7 +15,7 @@ header{
   width: 100%;
 }
 div.left, div.middle, div.right{
-  border:3px solid blue;
+  border:3px solid green;
   width: 32%;
 }
 aside img {
